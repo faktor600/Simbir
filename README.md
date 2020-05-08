@@ -93,7 +93,7 @@
 6. Завершить task и отправить ментору затраченное время
 
 
-1. [Работа с примитивными типами](javacoreTraining/ElementaryTraining)
-2. [Работа со строками](javacoreTraining/StringsTraining)
-3. [Работа с массивами](javacoreTraining/ArraysTraining)
+1. [Работа с примитивными типами](javacoreTraining/ElementaryTraining.java)
+2. [Работа со строками](javacoreTraining/StringsTraining.java)
+3. [Работа с массивами](javacoreTraining/ArraysTraining.java)
 4. Завершить task и отправить ментору затраченное время
