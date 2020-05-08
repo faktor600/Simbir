@@ -58,3 +58,42 @@
 7. Запустить проект на телефоне/симуляторе
 8. Cделать коммит и запушить изменения на remote-сервер в `develop` ветку
 9. После завершения работ над задением отправить ментору количество затраченного времени на практическое выполнение задачи.
+
+---
+## II. Java. Часть 1
+---
+### Теоретическая часть
+
+**Основы:**  
++ [Java-платформа] (https://docs.oracle.com/javase/tutorial/getStarted/intro/definition.html) **(\*\*)**
++ [Типы данных и переменные](https://metanit.com/java/tutorial/2.1.php) **(\*\*\*\*)**
++ [Преобразования базовых типов данных] (https://metanit.com/java/tutorial/2.2.php) **(\*\*\*\*)**
++ [Операции языка Java] (https://metanit.com/java/tutorial/2.3.php) **(\*\*\*\*)**
++ [Массивы] (https://metanit.com/java/tutorial/2.4.php) **(\*\*\*)**
++ [Условные конструкции] (https://metanit.com/java/tutorial/2.5.php) **(\*\*\*\*)**
++ [Циклы] (https://metanit.com/java/tutorial/2.6.php) **(\*\*\*\*)**
++ [Методы] (https://metanit.com/java/tutorial/2.7.php) **(\*\*\*\*)**
++ [Рекурсивные функции] (https://metanit.com/java/tutorial/2.8.php) **(\*\*\*)**
++ [Введение в обработку исключений] (https://metanit.com/java/tutorial/2.10.php) **(\*\*)**
++ [Java Code Conventions - Oracle] (http://www.oracle.com/technetwork/java/codeconventions-150003.pdf) **(\*\*\*\*)**
+
+**Отладка** 
++ [Android Studio Debugging: Базовые понятия](https://medium.com/@artem_shevchenko/android-studio-debugging-%D0%B1%D0%B0%D0%B7%D0%BE%D0%B2%D1%8B%D0%B5-%D0%BF%D0%BE%D0%BD%D1%8F%D1%82%D0%B8%D1%8F-%D0%B8-%D0%B2%D0%BE%D0%B7%D0%BC%D0%BE%D0%B6%D0%BD%D0%BE%D1%81%D1%82%D0%B8-658ee6dcc641) **(\*\*\*)**
++ [Android Studio Debugging: Продвинутый уровень](https://medium.com/@artem_shevchenko/android-studio-debugging-%D0%BF%D1%80%D0%BE%D0%B4%D0%B2%D0%B8%D0%BD%D1%83%D1%82%D1%8B%D0%B9-%D1%83%D1%80%D0%BE%D0%B2%D0%B5%D0%BD%D1%8C-e05dac22439f) **(\*\*\*)**
+
+### Практическое задание
+Все задачи должны быть реализованы в одном файле и разделены комментариями, указывающими на номер или текст задания.
+
+***Важно! Весь код должен быть написан по предоставленному Java Code Conventions***
+1. Определить две константы `a` и `b` типа `Double`, присвоить им любые значения. Вычислить среднее значение и сохранить результат в переменную `average`.
+2. Создать класс, и задать два любых строковых значения с названиями `firstName` и `lastName`. Далее необходимо вывести в консоль строку в формате "Full name: [firstName] [lastName]".
+3. Напишите программу для вывода первых 15 чисел последовательности Фибоначчи
+4. Напишите программу для сортировки массива, использующую метод пузырька. Сотрировка должна происходить в отдельной функции, принимающей на вход исходный массив.
+5. Напишите программу, решающую задачу: есть входящая строка формата "abc123", где сначала идет любая последовательность букв, потом число. Необходимо получить новую строку, в конце которой будет число на единицу больше предыдущего, то есть "abc124".
+6. Завершить task и отправить ментору затраченное время
+
+
+1. [Работа с примитивными типами](javacoreTraining/ElementaryTraining)
+2. [Работа со строками](http://gitlab.simbirsoft/aleksey.gusykov/javacoreTraining/blob/master/app/src/main/java/com/example/user/javacoretraining/training/StringsTraining.java)
+3. [Работа с массивами](http://gitlab.simbirsoft/aleksey.gusykov/javacoreTraining/blob/master/app/src/main/java/com/example/user/javacoretraining/training/ArraysTraining.java)
+4. Завершить task и отправить ментору затраченное время
