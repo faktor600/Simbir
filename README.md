@@ -94,6 +94,6 @@
 
 
 1. [Работа с примитивными типами](javacoreTraining/ElementaryTraining)
-2. [Работа со строками](http://gitlab.simbirsoft/aleksey.gusykov/javacoreTraining/blob/master/app/src/main/java/com/example/user/javacoretraining/training/StringsTraining.java)
-3. [Работа с массивами](http://gitlab.simbirsoft/aleksey.gusykov/javacoreTraining/blob/master/app/src/main/java/com/example/user/javacoretraining/training/ArraysTraining.java)
+2. [Работа со строками](javacoreTraining/StringsTraining)
+3. [Работа с массивами](javacoreTraining/ArraysTraining)
 4. Завершить task и отправить ментору затраченное время
